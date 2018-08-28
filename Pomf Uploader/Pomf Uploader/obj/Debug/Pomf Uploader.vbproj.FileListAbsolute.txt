@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\bin\Debug\Pomf Uploader.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\bin\Debug\Pomf Uploader.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\bin\Debug\Pomf Uploader.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\bin\Debug\Pomf Uploader.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf Uploader.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf_Uploader.Main.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf_Uploader.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf Uploader.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf Uploader.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf Uploader.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Pomf Uploader\Pomf Uploader\obj\Debug\Pomf Uploader.pdb
